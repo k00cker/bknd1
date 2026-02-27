@@ -363,14 +363,16 @@ Ejecuta `npm install` nuevamente.
 
 ## 📝 Notas Importantes
 
-- El archivo `.env` contiene credenciales y NOT debe ser commiteado
+- El archivo `.env` contiene credenciales y NO debe ser commiteado
 - Los archivos JSON de datos locales (`data/`) ya no se usan, todo está en MongoDB
 - El sistema maneja automáticamente populate de referencias en carritos
 - Socket.io requiere un cliente compatible para real-time
 
 ## 👤 Autor
+Felipe Menendez R.
 
-Entrega Final - Proyecto E-Commerce con MongoDB y Mongoose
+
+Entrega Final-Backend 1 Coderhouse - Proyecto E-Commerce con MongoDB y Mongoose
 
 ## 📄 Licencia
 
